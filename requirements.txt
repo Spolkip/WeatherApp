@@ -1,0 +1,13 @@
+customtkinter
+tkintermapview
+pytz
+timezonefinder
+geopy
+requests
+Pillow
+matplotlib
+python-dotenv
+plyer
+pystray
+mplcursors
+reportlab

@@ -1,0 +1,12 @@
+{
+  "default_city": "",
+  "units": "metric",
+  "refresh_interval": 30,
+  "api_key": "5cf3348fcb0242185f68a1665d2da621",
+  "saved_locations": [],
+  "alert_rules": [],
+  "wallpaper_auto_update": false,
+  "rain_notify": true,
+  "appearance_mode": "System",
+  "theme": "nature"
+}
